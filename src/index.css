@@ -1,0 +1,9 @@
+.s-pagewrap {
+    --circle-width  : 70vw;
+    --header-height : 6.4rem;
+    display         : flex;
+    flex-direction  : column;
+    min-height      : 100%;
+    overflow        : hidden;
+    position        : relative;
+}
